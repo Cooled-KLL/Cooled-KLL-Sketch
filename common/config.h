@@ -1,0 +1,16 @@
+// #define USE_CAIDA
+// #define USE_KAGGLE_VOLTAGE
+// #define USE_KAGGLE_PRICE
+// #define USE_KAGGLE_CUSTOM
+// #define USE_KAGGLE_DELAY
+#define USE_KAGGLE_ECOM
+
+#define USE_MULTI_INSERT
+
+#define HEAVYPART_24BIT_COUNTER
+// #define HEAVYPART_16BIT_COUNTER
+
+#ifdef HEAVYPART_16BIT_COUNTER
+    #define OVERFLOW_INSERT_1
+    // #define OVERFLOW_INSERT_ALL
+#endif
