@@ -1,4 +1,4 @@
-# Cooled-KLL: EnhancingQuantile Estimation by Filtering Hot Item
+# Cooled-KLL: Enhancing Quantile Estimation by Filtering Hot Item
 
 ## Compilation and Execution
 
